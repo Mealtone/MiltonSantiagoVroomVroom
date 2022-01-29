@@ -1,4 +1,4 @@
-package Classes;
+package VroomVroom;
 
 public class Camera {
 private String Resolution;

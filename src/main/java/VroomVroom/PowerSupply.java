@@ -1,4 +1,4 @@
-package Classes;
+package VroomVroom;
 
 public class PowerSupply {
 private int Watts;
