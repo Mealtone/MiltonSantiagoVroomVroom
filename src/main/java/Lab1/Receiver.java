@@ -1,4 +1,4 @@
-package VroomVroom;
+package Lab1;
 
 public class Receiver {
 private String SerialNumber;

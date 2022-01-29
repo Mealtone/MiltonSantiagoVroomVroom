@@ -1,6 +1,6 @@
-package VroomVroom;
+package Lab1;
 
-public class Lights {
+public class PowerSupply {
 private int Watts;
 
 public void Turnoff () {
@@ -19,3 +19,4 @@ public void BrightnessDown () {
 	System.out.println("Down");
 }
 }
+
